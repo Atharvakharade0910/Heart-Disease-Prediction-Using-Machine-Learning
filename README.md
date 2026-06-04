@@ -1,6 +1,7 @@
-Topic:Related to AI / Machine Learning✅
+This is the Kaggle link where the training and testing datasets are available.
 
-Here is a clean GitHub description for your project:
+Dataset Link: [https://www.kaggle.com/code/pedro3714/ml-and-dl-with-full-us-accidents-dataset/input]
+
 
 Heart Disease Prediction Using Machine Learning ❤️🤖
 
@@ -33,7 +34,4 @@ Technologies Used
 
 A machine learning project that predicts heart disease risk using patient medical data and classification algorithms.
 
-
-
 The system predicts whether the patient has heart disease or not based on the given input features.
-```
